@@ -1,6 +1,6 @@
-﻿#include <iostream>
+﻿int start();
 
-int main()
-{
-    std::cout << "Hello World!\n";
+int main(void) {
+	start();
+	return 0;
 }
